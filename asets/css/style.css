@@ -236,12 +236,18 @@ header.sticky {
     margin-bottom: 4rem;
 }
 
-.services {
+.education {
     background: var(--second-bg-color);
 }
 
+
+
 .main-text {
     text-align: center;
+}
+
+.main-text i {
+    font-size: 30px;
 }
 
 .main-text p {
@@ -254,6 +260,7 @@ header.sticky {
     font-size: var(--h2-font);
     line-height: 1;
     margin-bottom: 25px;
+    margin-top: 25px;
 }
 
 .services-content {
