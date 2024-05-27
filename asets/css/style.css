@@ -602,9 +602,6 @@ header.sticky {
     .nav-item.open {
         top: 100%;
     }
-
-
-
 }
 
 
@@ -628,20 +625,3 @@ header.sticky {
 
 
 
-/*
-https://www.youtube.com/watch?v=EQ7Ze3eGAgI
-
-git init
-git status
-git add   archivo
-         *.txt
-         .
-git commit -m ""
-
-
-
-
-
-
-
-*/
